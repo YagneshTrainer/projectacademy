@@ -1,0 +1,5 @@
+/awsliftshift/src/test/java/com/visualpathit/account/modelTest/UserTest.java
+/awsliftshift/src/test/java/com/visualpathit/account/controllerTest/SampleTest.java
+/awsliftshift/src/test/java/com/visualpathit/account/modelTest/RoleTest.java
+/awsliftshift/src/test/java/com/visualpathit/account/setup/StandaloneMvcTestViewResolver.java
+/awsliftshift/src/test/java/com/visualpathit/account/controllerTest/UserControllerTest.java
